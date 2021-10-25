@@ -1,5 +1,5 @@
 {
-  "name": "first-rails-app",
+  "name": "rails-app-lecture",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
